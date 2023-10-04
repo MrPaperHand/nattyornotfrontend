@@ -1,0 +1,18 @@
+NOTE: 
+
+TODO:
+
+PostsPage 
+implement the natty/juice vote buttons
+make new posts show up on top and old posts on bottom
+
+HomePage
+make the home page be a forum
+
+Profilepage
+make profilepage grab the user from the database instead of the local storage lol
+make the profile page have history of your forum stuff and rating stuff, profile pic, username, blah blah
+
+Logout
+make logout actually logout the user and send their ass to the login page
+make user be able to see posts and all that while not logged in, but make sure they can't actually create or delete anything
